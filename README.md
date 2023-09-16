@@ -41,12 +41,3 @@ Like here is a ScreenShot of XGBRegeressor Confusion Matrix. We can clearly see 
 ![Screenshot (114)](https://user-images.githubusercontent.com/54480904/119136601-802ba180-ba5d-11eb-96fe-f2156c02ecec.png)
 
 
-***Contact***
-
-```
-Name: - Rahul Amarwal 
-Email:- rahulamarwal418@gmail.com
-Phone :- 8505065521
-```
-
-To use dataset click [Here](https://drive.google.com/file/d/1K_OUszvCKLtvQv_DCHfZBRJEkQa173qH/view).
